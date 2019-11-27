@@ -20,3 +20,10 @@ class player(score):
 
     def getTotalPoints(self):
         return self._total_points
+
+    def getPlayerDetails(self):
+        print("Lane Id :", self._lane_id)
+        print("Player Id :", self._player_id)
+        print("Name :", self._player_name)
+        print('Points Scored in all 10 sets including extra balls in last set =>')
+        print(self._points)
