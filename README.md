@@ -1,5 +1,4 @@
 # Bowling-Alley-Game
-<h2>Bowling Alley Game</h2>
 <h4>Some rules about Bowling: </h4>
 
   ● A game consists of ten (10) sets as shown in the attachment.
